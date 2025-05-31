@@ -7,6 +7,9 @@
 
 An intelligent Python tool that automatically generates professional Google-style docstrings for your functions and classes using local LLM through Ollama. Features a user-friendly web interface built with Gradio.
 
+![Screenshot (372)](https://github.com/user-attachments/assets/8cf7d0b9-5a7d-4500-addf-77d1ccdfa205)
+
+
 ## 🌟 Features
 
 - **🔍 Smart Code Analysis**: Automatically detects functions and classes in your Python code
